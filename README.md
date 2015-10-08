@@ -1,14 +1,20 @@
 # Podbe-V4-API
 new version of Podbe-Json-API 
 
-##GET
+####GET
 - registrated user / internal
 - vip projects / internal, external
+<pre>
+</pre>
 
-##POST
+####POST
 - registrated user / internal
 - vip projects / external
+<pre>
+</pre>
 
-##PUT
+####PUT
 - registrated user / internal
 - vip projects / external
+<pre>
+</pre>
